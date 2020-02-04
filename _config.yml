@@ -1,9 +1,9 @@
 theme: jekyll-theme-hacker
 relative_links:
-        enabled: true
-        collections: true
+  enabled: true
+  collections: true
 github:
-        is_project_page: false
+  is_project_page: false
 title: rooted
 description: by Nicholas McKinney
 show_downloads: false
