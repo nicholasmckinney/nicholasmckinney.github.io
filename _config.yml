@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-dinky
 relative_links:
   enabled: true
   collections: true
