@@ -8,3 +8,10 @@ github:
 title: rooted
 description: Nicholas McKinney
 show_downloads: false
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: post
+      title:  j0rn3y_sec
