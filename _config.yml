@@ -4,3 +4,6 @@ relative_links:
         collections: true
 github:
         is_project_page: false
+title: j0urn3y_sec
+description: Tech Journal #695
+show_downloads: false
